@@ -1,0 +1,96 @@
+{
+  "framework": "esx",
+  "lang": "en",
+  "keys": {
+    "openMenu": 38
+  },
+  "rentForFree": false,
+  "payForTime": true,
+  "payInterval": 5,
+  "blockIfCantPay": false,
+  "payForDamage": true,
+  "damageCost": 1,
+  "payIfDestroyed": true,
+  "destroyedPayMultiplier": 10,
+  "menu": {
+    "scale": 1,
+    "bgPrimary": "#4a4a55",
+    "bgSecondary": "#35353f",
+    "xActive": "#ff666f",
+    "xInactive": "#4a4a55"
+  },
+  "vehicles": [
+    {
+      "model": "mule",
+      "label": "Mule",
+      "price": 22,
+      "info": [
+        "The Classic commercial delivery truck. Inconspicuous, secure, reliable. What happens in the back, stays in the back."
+      ]
+    },
+    {
+      "model": "benson",
+      "label": "Benson",
+      "price": 24,
+      "info": ["Inconspicuous, secure, reliable. What happens in the back, stays in the back."]
+    },
+    {
+      "model": "pounder",
+      "label": "Pounder",
+      "price": 36,
+      "info": ["Inconspicuous, secure, reliable. What happens in the back, stays in the back."]
+    }
+  ],
+  "zones": [
+    {
+      "name": "ls industrial zone",
+      "marker": {
+        "x": 900.35,
+        "y": -1155.64,
+        "z": 24.16
+      },
+      "spawn": {
+        "x": 879.62,
+        "y": -1170.78,
+        "z": 24.05,
+        "h": 275.17
+      },
+      "showBlip": true
+    }
+  ],
+  "marker": {
+    "type": 1,
+    "direction": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 1.0
+    },
+    "color": {
+      "r": 35,
+      "g": 191,
+      "b": 124
+    },
+    "alpha": 100,
+    "bob": false,
+    "face": false,
+    "distance": {
+      "show": 100.0,
+      "open": 2.0
+    }
+  },
+  "blips": {
+    "color": 17,
+    "id": 477,
+    "size": 1.0
+  }
+}

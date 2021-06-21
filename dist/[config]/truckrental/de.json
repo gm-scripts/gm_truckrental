@@ -1,0 +1,23 @@
+{
+  "vehicle": "Lkw",
+  "blip_title": "Lkw-Vermietung",
+  "press_e": "Drücke ~INPUT_CONTEXT~ um einen _vehicle_ zu leihen",
+  "store_vehicle": "Drücke ~INPUT_CONTEXT~ um den _vehicle_ zurückzugeben",
+  "stored_vehicle": "Danke für das zurückbringen des _vehicle_s",
+  "shop_name": "Lkw-Vermietung",
+  "more_info": "Weitere Infos",
+  "buy": "Jetzt mieten",
+  "back": "Zurück",
+  "pay_once": "_price_$",
+  "pay_for_time": "_price_$ / _minutes_m",
+  "free": "Kostenlos",
+  "already_rented": "Bitte gib den einen _vehicle_ zurück bevor du den nächsten mietest",
+  "vehicle_spawned": "Du hast ein _label_ für _price_$ geliehen",
+  "vehicle_spawned_free": "Du hast ein _label_ geliehen",
+  "paid_rent": "Du hast _price_$ Miete für dein _label_ bezahlt",
+  "cant_pay_rent": "Das geliehene _vehicle_ wurde gesperrt da du es nicht mehr bezahlen kannst",
+  "not_enough_cash": "Du hast nicht genug Geld um das _vehicle_ zu leihen",
+  "pay_for_damage": "Du zahlst _price_$ für die Schäden am _vehicle_",
+  "vehicle_destroyed": "Du zahlst _price_$ weil du das Mietfahrzeug zerstört hast"
+}
+

@@ -1,0 +1,23 @@
+{
+  "vehicle": "ciężarówka",
+  "blip_title": "Wypożyczalnia ciężarówek",
+  "press_e": "Wciśnij ~INPUT_CONTEXT~ w celu wypożyczenia _vehicle_",
+  "store_vehicle": "Wciśnij ~INPUT_CONTEXT~ aby zwrócić _vehicle_",
+  "stored_vehicle": "Dziękujemy za zwrócenie _vehicle_",
+  "shop_name": "Wypożyczalnia ciężarówek",
+  "more_info": "Informacje",
+  "buy": "Wypożyczalnia",
+  "back": "Wróć",
+  "pay_once": "$_price_",
+  "pay_for_time": "$_price_ / _minutes_m",
+  "free": "Bezpłatnie",
+  "already_rented": "Proszę zwrócić jeden _vehicle_ przed wynajęciem następnego",
+  "vehicle_spawned": "Wynająłeś _label_ za _price_$",
+  "vehicle_spawned_free": "Wynająłeś _label_",
+  "paid_rent": "Zapłaciłeś $_price_ czynszu za swój _label_",
+  "cant_pay_rent": "_vehicle_, który wynająłeś został zablokowany, ponieważ nie możesz już za niego zapłacić",
+  "not_enough_cash": "Nie masz wystarczająco dużo pieniędzy, aby wynająć _vehicle_",
+  "pay_for_damage": "Zapłacisz $_price_ za zniszczenie _vehicle_u",
+  "vehicle_destroyed": "Płacisz $_price_, ponieważ zniszczyłeś wynajęt _vehicle_"
+}
+

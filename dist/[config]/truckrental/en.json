@@ -1,0 +1,23 @@
+{
+  "vehicle": "truck",
+  "blip_title": "Truck Rental",
+  "press_e": "Press ~INPUT_CONTEXT~ to rent a _vehicle_",
+  "store_vehicle": "Press ~INPUT_CONTEXT~ to return the _vehicle_",
+  "stored_vehicle": "Thanks for returning the _vehicle_",
+  "shop_name": "_vehicle_ rental",
+  "more_info": "More info",
+  "buy": "Rent now",
+  "back": "Back",
+  "pay_once": "$_price_",
+  "pay_for_time": "$_price_ / _minutes_m",
+  "free": "Free",
+  "already_rented": "Please return the one _vehicle_ before renting the next one",
+  "vehicle_spawned": "You have rented a _label_ for _price_$",
+  "vehicle_spawned_free": "You have rented a _label_",
+  "paid_rent": "You paid $_price_ rent for your _label_",
+  "cant_pay_rent": "The _vehicle_ you borrowed was locked because you can't pay for it anymore",
+  "not_enough_cash": "You do not have enough money to borrow the _vehicle_",
+  "pay_for_damage": "You pay $_price_ for the damages on the _vehicle_",
+  "vehicle_destroyed": "You pay $_price_ because you destroyed the rented vehicle"
+}
+

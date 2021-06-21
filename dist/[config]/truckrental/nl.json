@@ -1,0 +1,23 @@
+{
+  "vehicle": "vrachtwagen",
+  "blip_title": "Vrachtwagenverhuur",
+  "press_e": "Druk op ~INPUT_CONTEXT~ om een _vehicle_ te huren",
+  "store_vehicle": "Druk op ~INPUT_CONTEXT~ om het _vehicle_ terug te brengen",
+  "stored_vehicle": "Bedankt voor het terugbrengen van het _vehicle_",
+  "shop_name": "Vrachtwagenverhuur",
+  "more_info": "Meer info",
+  "buy": "Nu huren",
+  "back": "Terug",
+  "pay_once": "$_price_",
+  "pay_for_time": "$_price_ / _minutes_m",
+  "free": "Gratis",
+  "already_rented": "Gelieve het ene _vehicle_ terug te brengen alvorens het volgende te huren",
+  "vehicle_spawned": "U heeft een _label_ gehuurd voor _price_$",
+  "vehicle_spawned_free": "U heeft een _label_ gehuurd",
+  "paid_rent": "U betaalde $_price_ huur voor uw _label_",
+  "cant_pay_rent": "Het _vehicle_ dat u huurt werd vergrendeld omdat u het niet meer kan betalen",
+  "not_enough_cash": "Je hebt niet genoeg geld om het _vehicle_ te huren",
+  "pay_for_damage": "Je betaalt $_price_ voor de schade aan het _vehicle_",
+  "vehicle_destroyed": "Je betaalt $_price_ omdat je het gehuurde _vehicle_ vernield hebt"
+}
+

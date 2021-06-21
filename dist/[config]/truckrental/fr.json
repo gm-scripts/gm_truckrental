@@ -1,0 +1,23 @@
+{
+  "vehicle": "camion",
+  "blip_title": "Location de _vehicle_s",
+  "press_e": "Appuyez sur ~INPUT_CONTEXT~ pour louer un véhicule",
+  "store_vehicle": "Appuyez sur ~INPUT_CONTEXT~ pour rendre le véhicule",
+  "stored_vehicle": "Merci de rapporter le véhicule",
+  "shop_name": "Location de _vehicle_s",
+  "more_info": "Informations",
+  "buy": "Louer",
+  "back": "Retourner",
+  "pay_once": "$_price_",
+  "pay_for_time": "$_price_ / _minutes_m",
+  "free": "Gratuit",
+  "already_rented": "Veuillez rendre ce véhicule avant de louer le suivant",
+  "vehicle_spawned": "Vous avez loué un _label_ pour $_price_",
+  "vehicle_spawned_free": "Vous avez loué un _label_",
+  "paid_rent": "Vous avez payé un loyer de $_price_ pour votre véhicule _label_",
+  "cant_pay_rent": "Le _vehicle_ que vous louez a été verrouillé parce que vous ne pouvez plus le payer.",
+  "not_enough_cash": "Vous n'avez pas assez d'argent pour louer le véhicule",
+  "pay_for_damage": "Vous payez $_price_ pour les dommages sur le véhicule",
+  "vehicle_destroyed": "Vous payez $_price_ parce que vous avez détruit le véhicule loué"
+}
+

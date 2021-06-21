@@ -1,0 +1,23 @@
+{
+  "vehicle": "camión",
+  "blip_title": "Alquiler de _vehicle_es",
+  "press_e": "Pulse ~INPUT_CONTEXT~ para alquilar un vehículo",
+  "store_vehicle": "Pulse ~INPUT_CONTEXT~ para devolver el vehículo",
+  "stored_vehicle": "Gracias por devolver el vehículo",
+  "shop_name": "Alquiler de _vehicle_es",
+  "more_info": "Información",
+  "buy": "Alquilar",
+  "back": "Volver",
+  "pay_once": "$_price_",
+  "pay_for_time": "$_price_ / _minutes_m",
+  "free": "Gratis",
+  "already_rented": "Por favor, devuelva el vehículo antes de alquilar el siguiente",
+  "vehicle_spawned": "Usted ha alquilado un _label_ por _price_$",
+  "vehicle_spawned_free": "Ha alquilado un _label_",
+  "paid_rent": "Ha pagado  $_price_ de alquiler por su _label_",
+  "cant_pay_rent": "El vehículo que ha alquilado ha sido bloqueado porque ya no puede pagarlo",
+  "not_enough_cash": "No tienes suficiente dinero para alquilar el vehículo",
+  "pay_for_damage": "Pagas $_price_ por los daños del vehículo",
+  "vehicle_destroyed": "Pagas $_price_  porque has destruido el vehículo alquilado"
+}
+
